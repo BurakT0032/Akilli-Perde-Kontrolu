@@ -56,5 +56,5 @@ Bu proje kapsamında, iç ortamda sıcaklık ve ışık sensörleri kullanılara
 
 ---
 
-📄 [GitHub Üzerinden Ara Rapor Dosyasına Ulaşmak için Tıklayın](https://github.com/Yusuf-Guney/Akilli-Perde-Kontrolu/blob/main/AraRapor/AraRapor.md)
+📄 [GitHub Üzerinden Ara Rapor Dosyasına Ulaşmak için Tıklayın](https://github.com/BurakT0032/Akilli-Perde-Kontrolu/blob/main/AraRapor/AraRapor.md)
 
